@@ -200,7 +200,7 @@ export default function AutoVisionApp() {
       <header className="flex h-12 items-center justify-between border-b border-border bg-sidebar px-4">
         <div className="flex items-center gap-2">
           <Eye className="h-5 w-5 text-primary" />
-          <span className="text-lg font-semibold">AutoVision</span>
+          <span className="text-lg font-semibold">Image Augmentation Tool</span>
           <span className="ml-2 rounded bg-primary/20 px-2 py-0.5 text-xs text-primary">v3.5</span>
         </div>
         <div className="flex items-center gap-4 text-sm text-muted-foreground">
